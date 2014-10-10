@@ -10,6 +10,6 @@
 
     `node index.js`
 
-## Example fetch, sharp, and write to disk
+## Example fetch, sharp, and return to browser
 
-    http://localhost:9000/test/http://upload.wikimedia.org/wikipedia/commons/4/40/Flatiron_Building_NYC_c1903.jpg
+    http://localhost:9000/%7B%22size%22:%7B%22width%22:720,%22height%22:480%7D%7D/http://photos.vanityfair.com/2014/10/06/5432e75974ed87dd423a382a_jennifer-lawrence-vanity-fair-11-november-cover-ss01.jpg
