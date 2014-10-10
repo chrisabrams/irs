@@ -4,6 +4,7 @@
 - Python: if using brew to install packages below, you'll have to install Python through brew. Yes, this is retarded. `brew install python`
 - [XQuartz](http://xquartz.macosforge.org/landing/)
 - Libvips: `brew tap homebrew/science` then `brew install homebrew/science/vips --with-webp --with-graphicsmagick`
+- `npm install`
 
 ## Start server
 
