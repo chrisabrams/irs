@@ -5,6 +5,9 @@
 - [XQuartz](http://xquartz.macosforge.org/landing/)
 - Libvips: `brew tap homebrew/science` then `brew install homebrew/science/vips --with-webp --with-graphicsmagick`
 
+## Start server
+
+    `node index.js`
 
 ## Example fetch, sharp, and write to disk
 
